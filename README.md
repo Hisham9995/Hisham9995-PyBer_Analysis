@@ -10,7 +10,10 @@ This data is  including set of in formation  in Total Rides	,Total Drivers ,	Tot
 ## Results
 
 
-![](analysis/Fig 8.png)
+               
+               
+               
+                 ![](analysis/Fig 8.png)
 
 
 
