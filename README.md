@@ -13,7 +13,7 @@ This data is  including set of in formation  in Total Rides	,Total Drivers ,	Tot
  
  
  
-![](analysis/Fig8.png)
+ ![](analysis/Fig8.png)
 
 
 
