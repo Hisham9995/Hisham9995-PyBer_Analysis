@@ -12,8 +12,7 @@ This data is  including set of information  in Total Rides	,Total Drivers ,	Tota
 
                
                
-               
- ![](analysis/Fig 8.png)
+https://github.com/Hisham9995/PyBer_Analysis/blob/main/analysis/Fig%208.png
 
 
 
