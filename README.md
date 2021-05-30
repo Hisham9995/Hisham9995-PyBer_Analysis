@@ -12,8 +12,7 @@ This data is  including set of in formation  in Total Rides	,Total Drivers ,	Tot
 
  
  
- 
- ![](analysis/Fig8.png)
+
 
 
 
@@ -22,3 +21,5 @@ We can tell there is a relationship between city population and the total number
 it is related to  the accessiblity for (the internet connection ) and the public transportion on that areas  
 
 ![](analysis/PyBer_fare_summary.png)
+ 
+ ![](analysis/Fig8.png)
