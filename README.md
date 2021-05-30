@@ -20,7 +20,7 @@ This data is  including set of information  in Total Rides	,Total Drivers ,	Tota
 
 
 
-We can tell there is a relationship between city population and the total number of rides and total drivers , we can notice the average fare per ride and per driver seems to increase in urban areas and suburban areas ,another fact  in rural areas Less drivers   lead to a higher average fare per ride and driver 
+We can tell there is a relationship between city population and the total number of rides and total drivers , we can notice the average fare per ride and per driver seems to increase in urban areas and suburban areas ,another fact  in rural areas Less drivers   lead to a higher average fare per ride  
 it is related to  the accessiblity for (the internet connection ) and the public transportion on that areas  
 
 
