@@ -15,7 +15,7 @@ This data is  including set of information  in Total Rides	,Total Drivers ,	Tota
   
   
   
-  ![](analysis/Fig 8.png)
+  ![](analysis/Fig8.png)
 
 
 
