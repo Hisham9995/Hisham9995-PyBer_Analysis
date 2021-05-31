@@ -20,19 +20,20 @@ This data is  including set of information  in Total Rides	,Total Drivers ,	Tota
 
 
 
-the multiple-line chart shows  there is a relationship between city population and the total number of rides and total drivers , we can notice the average fare per ride and per driver seems to increase in urban areas and suburban areas ,another fact  in rural areas Less drivers   lead to a higher average fare per ride  
+the multiple-line chart  is able to show  total fare by city over jan to may 5 months we can see an increase during the month of April and  ,The number of rides seem not stable  at the end of February and fluctuates during the month of March  
+The end of feb is the peek there is a relationship between city population and the total number of rides and total drivers , we can notice the average fare per ride and per driver seems to increase in urban areas and suburban areas ,another fact  in rural areas Less drivers   lead to a higher average fare per ride  
 it is related to  the accessiblity for (the internet connection ) and the public transportion on that areas  
 
 
 ![](analysis/PyBer_fare_summary.png)
-the multiple line chart is able to show  total fare by city over jan to may 5 months we cab see a increase during the month of Apriland  The number of rides seem not stable  at the end of February and fluctuates during the month of March  the peek is at the end of feb 
 
 
 ## Summary
 first of all We can see an  increase during the month of April in suburban cities, and  the total fare decreases for other types of cities
-secondable the average fare per ride shows an increase from more populated cites to less populated cities.
-these information helps the  company addressing the reasons behind these data and fixing it  by limiting or increasing the number of drivers during a certain time . and we can notice the less rides is the reason behing less drivers and making average fare per ride more expensive the  data set is so important in making the company making more profit and managing the rush hours in hiring new drivers and also addressing the problem why in rural areas
-total rides are minumum 
+Scondable the average fare per ride shows an increase from more populated cites to less populated cities.
+These information helps the  company addressing the reasons behind these data and fixing it , by limiting or increasing the number of drivers during a certain time . and we can notice the less rides is the reason behing less drivers and making average fare per ride more expensive
+This  data set is so important for  the company in making more profit and managing  rush hours in hiring new drivers and also addressing the problem why in rural areas
+total rides are minumum .?
 
 
 
