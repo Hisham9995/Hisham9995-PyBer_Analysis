@@ -5,7 +5,7 @@
 ## Overview of Analysis
 
 This Analysis is about showing the total weekly fares by using a  multiple-line graph in three city types  suburban, urban and rural , On the other hand Analyzing total rides for each city type ,total drivers and average fare per ride , we did also compared   the average ride fare to the total number of rides  
-This data is  including set of information  in Total Rides	,Total Drivers ,	Total Fares	Average Fare per Ride and 	Average Fare per Driver
+This data is  including a set of information  in Total Rides	,Total Drivers ,	Total Fares	Average Fare per Ride and 	Average Fare per Driver
 
 
 ## Results
